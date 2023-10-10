@@ -37,7 +37,7 @@
 - ✨Magic ✨
 
 ## Цель работы
-Установил необходимый софт Anaconda и Unity для дальнейшей работы.
+Научиться передавать в Unity данные из Google Sheets с помощью Python.
 
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.

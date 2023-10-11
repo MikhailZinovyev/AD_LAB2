@@ -96,7 +96,7 @@ while i <= len(mon):
 
 ## Выводы
 
-Научился инициализировать игровые переменные. По формуле этой переменной через скрипт в пайтоне заполнять гугл-таблицы. Так же научился делать так чтобы юнити читал данные с гугл таблиц и исходя из данных воспроизводил какие-то действия, в данном случае воспроизводил эти звуки.
+Научился инициализировать игровые переменные. По формуле этой переменной через скрипт в пайтоне заполнять гугл-таблицы. Так же научился делать так чтобы юнити читал данные с гугл таблиц и исходя из данных воспроизводил какие-то действия, в данном случае воспроизводил звуки.
 Я очень старался. Надеюсь за Папича будут доп баллы. Всем ведущим разработчикам Сбербанка респект)
 
 | Plugin | README |
@@ -108,21 +108,7 @@ while i <= len(mon):
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
-## Powered by
 
-**BigDigital Team: Denisov | Fadeev | Panov**
-## Выводы
-
-Установил необходимый софт Anaconda и Unity для работы.Результатом выполнения стал вывод сообщения Hello World. Оформил отчет в виде документации на github.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 ## Powered by
 
